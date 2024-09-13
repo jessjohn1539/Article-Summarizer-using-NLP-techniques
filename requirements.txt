@@ -5,3 +5,4 @@ nltk
 spacy
 networkx
 numpy
+scipy
